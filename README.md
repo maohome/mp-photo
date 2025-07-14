@@ -10,6 +10,7 @@
 ## 项目截图
 
 ![项目截图](https://github.com/maohome/mp-photo/blob/main/screenshot.png)
+![免费生图](https://github.com/maohome/mp-photo/blob/main/Kwai-Kolors.png)
 
 ## 主要功能
 
