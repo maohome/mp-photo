@@ -48,7 +48,7 @@ git clone https://github.com/maohome/mp-photo.git
 
 2. 进入项目目录：
 ```bash
-cd wechat-cover-generator
+cd mp-photo
 ```
 
 3. 创建下载目录并设置权限：
